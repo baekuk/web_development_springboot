@@ -15,7 +15,7 @@ public class TestServicce {
     /*
         1. MemberRepository 라는 빈을 주입 받은 후에,
         2. findAll() 메서드를 호출해서 멤버 테이블에 저장된 멤버 목록을 가져옵니다.
-     */git a
+     */
 
 
 
